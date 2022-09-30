@@ -5,6 +5,7 @@ from tkinter.tix import Tree
 import cv2
 import os.path as path
 import numpy as np
+#Alumno: Abdiel Jefte Santillan Luna
 CapPantalla = cv2.VideoCapture(0)
 n='0'
 nn =1
